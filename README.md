@@ -24,7 +24,8 @@ pytorch==1.0.1
 ```
 
 ## Usage
-1. Prepare your dataset and preprocess it using Data-Preparation.ipynb
+1. Prepare your dataset and preprocess it using **Data-Preparation.ipynb**
+
 2.Run the training script:
 
 ```bash
