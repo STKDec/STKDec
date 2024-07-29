@@ -31,25 +31,6 @@ numpy==1.15.1
 pytorch==1.0.1
 ```
 
-```
-project-root/
-│
-├── Data-Preparation.ipynb # Notebook for data preprocessing and preparation
-├── Diffusion_Model.py # Main script for training the diffusion model
-├── Evaluate_Model.py # Script for evaluating the trained model
-├── models/ # Directory containing model definitions
-│ ├── diffusion_model.py # Diffusion model implementation
-│ └── other_models.py # Additional model implementations
-├── data/ # Directory containing data files
-│ ├── train_data.csv # Training data file
-│ ├── test_data.csv # Testing data file
-│ └── preprocessing_config.json # Configuration file for preprocessing
-├── results/ # Directory for storing results and evaluation outputs
-│ ├── evaluation_report.txt # Evaluation report and metrics
-│ └── model_checkpoint.pth # Saved model checkpoints
-└── README.md # This file
-```
-
 ## Usage
 1.Prepare your dataset and preprocess it using **Data-Preparation.ipynb**
 
