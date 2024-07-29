@@ -14,10 +14,12 @@ We propose STKDec, a knowledge-enhanced conditional diffusion model for cross-ci
 </p>
 
 <div align="center">
+  
 ![image](https://github.com/user-attachments/assets/767c58e5-4835-4181-8f72-40c376277103)
 </div>
 
 <div align="center">
+  
 ![image](https://github.com/user-attachments/assets/fa8d58ba-6fd7-489b-bd8f-2b80dc851ff4)
 </div>
 
@@ -37,10 +39,13 @@ pytorch==1.0.1
 ```bash
 python Diffusion_Model.py
 ```
-3.Evaluation:
+3.Evaluate its performance:
 
 ```bash
 python Evaluate.py
 ```
 ## Results
+<div align="center">
+  
 ![image](https://github.com/user-attachments/assets/d3c32e03-04f8-41cd-bba7-dd6a43625a01)
+</div>
